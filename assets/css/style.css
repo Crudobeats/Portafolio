@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#Hero-Section {
+    background-image: url("../imgs/hero-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+  
+#Hero-Section .btn {
+    border-color: #212529;
+}
+
+#Mis-trabajos {
+    font-weight: 300;
+    background-color: #212529 !important;
+}
+
+#Mis-trabajos-2 {
+    background-color: #212529 !important;
+}
+
+#Mis-trabajos h2{
+    font-size: 2.5em;
+    color: aliceblue !important;
+    font-weight: 500;
+}
+
+.card {
+    border-color: #212529;
+}
+
+.footer {
+    font-weight: 200; 
+    color: aliceblue !important;
+}
